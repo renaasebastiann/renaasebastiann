@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @renaasebastiann
-- 👀 I’m interested in ...IoT
-- 🌱 I’m currently learning ...c++
+- 👀 I’m interested in ...AI, Data Science, Machine Learning,Python, HTML & CSS
+- 🌱 I’m currently learning ...MySQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...renasebastian8@gmail.com
 
